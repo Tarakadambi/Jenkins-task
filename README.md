@@ -18,7 +18,7 @@ This project demonstrates how to use Jenkins for automating build and deployment
 ## 🛠️ Technologies Used
 - Jenkins
 - Git & GitHub
-- Docker (if used in your project)
+- Docker 
 - CI/CD Pipeline concepts
 
 ---
